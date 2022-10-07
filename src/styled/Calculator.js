@@ -62,7 +62,7 @@ export const CalculatorNumberTab = styled.div`
   height: 70px;
   ${Centering}
   border-radius: 50%;
-  background: gray;
+  background: #e7e7e0;
   cursor: pointer;
   transition: 0.4s ease-in;
   &:hover {
